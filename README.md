@@ -20,7 +20,7 @@ docker-compose up
 ```
 4. Access frontend/backend using the following url
 <br/>
-[Sentiment Analysis frontend](http://localhost:8501)
+[Sentiment Analysis frontend](http://www.localhost:8501)
 <br/>
 [Sentiment Analysis backend](http://localhost:8080)
 [I'm an inline-style link with title](https://localhost:8080 "Google's Homepage")
