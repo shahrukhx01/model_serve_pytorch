@@ -1,0 +1,15 @@
+services:
+  frontend:
+    image: hi_ben_attention_sentiment_frontend
+    ports:
+      - 8501:8501
+    depends_on:
+      - backend
+    volumes:
+        - ./storage:/storage
+  backend:
+    image: hi_ben_attention_sentiment_backend
+    ports:
+      - 8080:8080
+    volumes:
+      - ./storage:/storage

@@ -1,0 +1,10 @@
+hindi:
+  vocab: artefacts/hindi_vocab_items.pickle
+  model: artefacts/hindi_model.pth
+  stopwords: artefacts/stopwords-hi.txt
+
+bengali:
+  vocab: artefacts/bengali_vocab_items.pickle
+  model: artefacts/bengali_model.pth
+  stopwords: artefacts/stopwords-bn.txt
+
