@@ -19,6 +19,6 @@ cd ..
 docker-compose up
 ```
 4. Access frontend/backend using the following url
-
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 [Sentiment Analysis frontend]: (http://localhost:8501/)
 [Sentiment Analysis backend]: (http://localhost:8080/)
