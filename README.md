@@ -20,5 +20,5 @@ docker-compose up
 ```
 4. Access frontend/backend using the following url
 
-[Sentiment Analysis frontend]: http://localhost:8501/
-[Sentiment Analysis backend]: http://localhost:8080/
+[Sentiment Analysis frontend]: (http://localhost:8501/)
+[Sentiment Analysis backend]: (http://localhost:8080/)
