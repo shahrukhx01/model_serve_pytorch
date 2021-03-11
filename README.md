@@ -19,7 +19,7 @@ cd ..
 docker-compose up
 ```
 4. Access frontend/backend using the following url
-![start_caQtDM_7id.sh](./start_caQtDM_7id.sh) 
+![start_caQtDM_7id.sh](http://www.localhost:8501) 
 <br/>
 ![Sentiment Analysis frontend](http://www.localhost:8501)
 <br/>
