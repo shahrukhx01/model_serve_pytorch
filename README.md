@@ -19,10 +19,10 @@ cd ..
 docker-compose up
 ```
 4. Access frontend/backend using the following url
-![start_caQtDM_7id.sh](http://localhost:8501) 
-<br/>
-![Sentiment Analysis frontend](http://www.localhost:8501)
-<br/>
-[Sentiment Analysis backend](http://localhost:8080)
-[I'm an inline-style link with title](https://localhost:8080 "Google's Homepage")
 
+Sentiment Analysis frontend<br/>
+`http://www.localhost:8501`
+<br/>
+Sentiment Analysis backend
+<br/>
+`http://localhost:8080`
