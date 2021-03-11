@@ -1,5 +1,5 @@
 # Serving PyTorch Attention based Sentiment Classification Model with Streamlit, FastAPI and Docker
-
+![](https://github.com/shahrukhx01/model_serve_pytorch/blob/main/output.gif)
 ## How to run
 1. Clone repository
 ```bash
